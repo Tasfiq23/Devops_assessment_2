@@ -18,7 +18,7 @@ def divide(a, b):
 
 
 def power(a, b):
-    return "Power operation is not supported."
+    return "Power operation is not supported!"
     # try:
     #     return a / b
     # except ZeroDivisionError:
